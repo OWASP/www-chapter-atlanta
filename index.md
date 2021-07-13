@@ -12,10 +12,10 @@ Follow us on meetup or twitter to keep up with what we are doing!
 
 ## Past Events
 
-
-January 21, 2021
-6:30 PM to 8:30 PM EST
-Title: Detect Complex Code Patterns Using Semantic Grep
+* January 21, 2021
+* 6:30 PM to 8:30 PM EST
+* Title: Detect Complex Code Patterns Using Semantic Grep
+* Location/URL: 
 
 
 ## Upcoming events
