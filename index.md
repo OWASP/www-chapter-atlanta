@@ -12,10 +12,10 @@ Follow us on meetup or twitter to keep up with what we are doing!
 
 ## Past Events
 
-1/21/21- Detect Complex Code Patterns Using Semantic Grep
 
-
-2/11/21 - Exclusive Free Admission to Region’s Official Virtual Cyber Security Summit
+January 21, 2021
+6:30 PM to 8:30 PM EST
+Title: Detect Complex Code Patterns Using Semantic Grep
 
 
 ## Upcoming events
