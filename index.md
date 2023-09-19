@@ -4,6 +4,7 @@ title: OWASP Atlanta
 tags: ATL
 level: 0
 region: North America
+country: USA
 meetup-group: OWASP-Atlanta
 
 ---
