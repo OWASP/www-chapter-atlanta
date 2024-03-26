@@ -37,7 +37,7 @@ learned.
 -- Exhibition table to hand out stickers, one-pagers & swag.
 -- Costs range from $200-$550 paid to the caterer. 
 
-## Monetary Donations
+### Monetary Donations
 - A general monetary donation to support OWASP future events
 -- Logo recognition for event promotional materials. 
 
