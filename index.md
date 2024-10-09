@@ -10,8 +10,8 @@ meetup-group: OWASP-Atlanta
 ---
 ## Welcome to the Atlanta Chapter
 
-**Special Notice:**
-Due to the COVID-19 (Coronavirus) pandemic, our events will continue to be virtual via zoom. You can subscribe to our [Atlanta Meetup Group](https://www.meetup.com/OWASP-Atlanta/) join us. We will also post information here and on all our other media platforms (twitter, discord, etc) as we are closer to the date for our various talks and chapter meetups.
+**Stay Connected:**
+Please subscribe to our [Atlanta Meetup Group](https://www.meetup.com/OWASP-Atlanta/). We will also post event information here and on all our other media platforms (twitter, discord, etc).
 
 ## Upcoming events
 
@@ -49,4 +49,4 @@ Atlanta.
 	- Exhibition table to hand out stickers, one-pagers and swag.
 	- Ability to introduce yourself and company at the beignning of meeting. 
 
-[Donate here](https://owasp.org/donate/?reponame=owasp.github.io) 
+[Donate here](https://owasp.org/donate/?reponame=www-chapter-atlanta&title=OWASP+Atlanta) 
