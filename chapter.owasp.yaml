@@ -1,0 +1,36 @@
+community:
+  - name: chapter-atlanta
+    platform: slack
+    url: https://owasp.slack.com/archives/CBZGL2MPF
+    description: OWASP Atlanta chapter
+leaders:
+  - name: Tony UV
+    email: tony.uv@owasp.org
+    github: tonyuv
+  - name: Guled Abdilahi
+    email: guled.abdilahi@owasp.org
+    github: Guled
+  - name: Ayliffe Brown
+    email: ayliffe.brown@owasp.org
+    github: Liffe93
+  - name: Thomas Breland
+    email: thomas.breland@owasp.org
+    github: thomasbreland
+location:
+  country: USA
+  country_code: US
+  region: Georgia
+  city: Atlanta
+  latitude: 33.7489924
+  longitude: -84.3902644
+meetup_group: OWASP-Atlanta
+name: OWASP Atlanta
+repositories:
+  - name: www-chapter-atlanta
+    url: https://github.com/OWASP/www-chapter-atlanta
+    description: OWASP Foundation Web Repository
+tags:
+  - ATL
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-atlanta
