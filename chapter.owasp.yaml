@@ -31,6 +31,7 @@ repositories:
     description: OWASP Foundation Web Repository
 tags:
   - ATL
-  - custom-tag-1
-  - custom-tag-2
+  - Atlanta
+  - GA
+  - Georgia
 website: https://owasp.org/www-chapter-atlanta
