@@ -25,7 +25,7 @@ We schedule our meetings on the [Atlanta Meetup Group](https://www.meetup.com/OW
 ## Community Sponsors
 <a href="https://infosecmap.com">
 	<img src="/www-chapter-atlanta/assets/images/InfoSecMap-logo.png" alt="INFOSECMAP" style="width:140px; height:auto;">
-</a><br>
+</a></br>
 
 [InfoSecMap](https://infosecmap.com/) is your go-to global directory for cybersecurity events and communities. Discover conferences, CTFs, meetups, and more - all meticulously curated and constantly updated. Whatever you're looking for, including Call for Papers, Trainers, Sponsors, or Volunteers, our powerful search tools make it easy. Best of all, it's completely free!
 
